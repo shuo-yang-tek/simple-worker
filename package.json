@@ -1,0 +1,11 @@
+{
+   "name": "simple-worker",
+   "version": "0.0.1",
+   "main": "index.js",
+   "scripts": {
+      "test": "node test/test.js"
+   },
+   "repository": "https://github.com/shuo-yang-tek/simple-worker.git",
+   "author": "Shuo Yang <shuo.yang.tek@gmail.com>",
+   "license": "MIT"
+}
